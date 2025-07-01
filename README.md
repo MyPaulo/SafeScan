@@ -77,7 +77,5 @@ MIT License — see LICENSE file for details.
 Built by Paul Osuji
 
 
-
 ## Demo
-
-![SafeScan Terminal Demo](safescan/screenshot/safescan-demo.png)
+![SafeScan Terminal Demo](screenshots/safescan-demo.png)
