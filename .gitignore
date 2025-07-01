@@ -1,0 +1,19 @@
+# Ignore logs and temporary files
+safescan-logs/
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache (if Python scripts are added later)
+__pycache__/
+*.pyc
+
+# Ignore editor/IDE settings
+.vscode/
+.idea/
+*.swp
+
+# Optional: Ignore screenshots if not needed 
+# screenshots/

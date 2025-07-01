@@ -80,4 +80,4 @@ Built by Paul Osuji
 
 ## Demo
 
-!SafeScan Terminal Demo
+![SafeScan Terminal Demo](safescan/screenshot/safescan-demo.png)
