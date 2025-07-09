@@ -79,3 +79,4 @@ Built by Paul Osuji
 
 ## Demo
 ![SafeScan Terminal Demo](screenshots/safescan-demo.png)
+![SafeScan Terminal Demo](screenshots/safe_bg.jpg)
